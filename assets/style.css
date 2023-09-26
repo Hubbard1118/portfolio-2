@@ -68,6 +68,6 @@ div a {
 
 #horiseon {
     background-image: url("./horiseon.jpg");
-    width: 100vw
-    height: 20vh
+    width: 100vw;
+    height: 20vh;
 }
