@@ -53,7 +53,7 @@ section {
     padding-left: 20px;
 }
 .background {
-    background-image: url("/assignments/portfolio-2/assets/Banner.jpg");
+    background-image: url("./Banner.jpg");
     min-height: 30vh;
     width: 100vw;
     margin-bottom: 25px;
@@ -67,5 +67,7 @@ div a {
 }
 
 #horiseon {
-    background-image: url("/assignments/portfolio-2/horiseon.jpg")
+    background-image: url("./horiseon.jpg");
+    width: 100vw
+    height: 20vh
 }
