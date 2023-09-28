@@ -64,14 +64,13 @@ section {
     background-image: url("./Banner.jpg");
     min-height: 30vh;
     width: 100vw;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     background-size: cover;
 }
 
 div a {
     display: flex;
     flex-direction: row;
-    justify-content: 
 }
 
 #horiseon {
